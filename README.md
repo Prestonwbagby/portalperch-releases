@@ -10,6 +10,8 @@ PortalPerch is a Windows Service that signs into websites and verifies their pro
 
 - Local web dashboard for adding, editing, pausing, and removing websites.
 - Green health indicators, last check times, and check history.
+- Compact website rows with details on hover or through a Details button.
+- Copy existing website configurations, including saved credentials and schedules, into a separate paused website.
 - Username/password login and protected-page content verification.
 - Per-site daily schedules with intervals from 5 to 999 minutes and configurable consecutive-failure thresholds.
 - Independent checks of the monitoring server's internet access to avoid counting general server outages as site failures.
